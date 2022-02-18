@@ -4,6 +4,11 @@ _Juego de Serpiente construido en Java_
 
 ## Comenzando 🚀
 
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+Mira **Deployment** para conocer como desplegar el proyecto.
+
+
 ### Instalación 🔧
 
 _Clona o bajar el repositorio, la carpeta con el código se encuntra en la rama dev_
@@ -27,3 +32,16 @@ Puedes encontrar mucho más de de este proyecto en [Games](https://www.gsampallo
 
 * **Jaqueline Torres** - *Trabajo Inicial, documentación* - [jaqueTorres](http://github.com/JaquelineTorres)
 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
+
+
+
+---
+⌨️ con ❤️ por [jaqueTorres](http://github.com/JaquelineTorres) 😊
