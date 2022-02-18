@@ -6,9 +6,7 @@ _Juego de Serpiente construido en Java_
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Clonar o bajar el repositorio, la carpeta con el código se encuntra en la rama dev_
+_Clona o bajar el repositorio, la carpeta con el código se encuntra en la rama dev_
 
 ```
 git clone https://github.com/JaquelineTorres/Games.git
